@@ -1,6 +1,6 @@
 run "python train.py"
 
-The program is set to run by loading pretrained weights which is available at: ""
+The program is set to run by loading pretrained weights which is available at: "https://gmuedu-my.sharepoint.com/:u:/r/personal/apaudya_gmu_edu/Documents/Checkpoint/CheckPoint_P_24.340.pth?csf=1&web=1&e=yAWRwj"
 put the checkpoint file without changing its name in the main directory ./ChPt folder.
 
 requirements:
